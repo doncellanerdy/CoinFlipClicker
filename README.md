@@ -2,9 +2,19 @@
 
 A small game that allows the user to flip a coin, gain a point on their guess, and level up.
 
-**Link to project:**
-
 ![expample of how coin flipping game works](https://github.com/diannedejesus/knowledge-aquisition/blob/main/coin-flipper/coinflipperv4.gif)
+
+## How To Use Locally:
+
+After downloading files, open the backend folder in your command line terminal and install the node packages: npm install.
+Then you can open the index file located in the frontend folder manually or using live server (VS Code Extension) or similar.
+
+## How To Play:
+
+Under "Your Guess" you can click the word (heart or star) to change your guess of which side the coin will land on.
+Then you click on the spinning coin to flip it. The coin will show the randomly selected side it landed on.
+If it macthes your guess you recieve a point and your score goes up by one.
+Depending on the score reached, your level will change, there are sixteen total levels.
 
 ## How It's Made:
 
